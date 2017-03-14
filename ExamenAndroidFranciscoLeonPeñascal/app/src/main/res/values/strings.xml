@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExamenAndroidFLP</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnAdd">AÑADIR</string>
+    <string name="edtNombre">Nombre</string>
+    <string name="edtEmail">Email</string>
+    <string name="txtheader">Opciones Usuarios</string>
+    <string name="opcDel">Borrar</string>
+    <string name="si">Sí</string>
+    <string name="no">No</string>
+    <string name="tituloDialogo">¿Desea borrar el usuario?</string>
+</resources>
